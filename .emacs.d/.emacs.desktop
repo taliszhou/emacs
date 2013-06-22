@@ -1,0 +1,106 @@
+;; -*- mode: emacs-lisp; coding: emacs-mule; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Sat Jun 22 12:12:04 2013
+;; Desktop file format version 206
+;; Emacs version 24.3.1
+
+;; Global section:
+(setq desktop-missing-file-warning nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+(setq search-ring nil)
+(setq regexp-search-ring nil)
+(setq register-alist nil)
+(setq file-name-history '("d:/Developer/Android/projects/fpaandroidclient/trunk/res/layout/main.xml" "d:/Developer/Android/projects/fpaandroidclient/trunk/local.properties" "d:/Developer/Android/projects/fpaandroidclient/trunk/project.properties" "d:/Developer/Android/projects/fpaandroidclient/trunk/proguard-project.txt" "d:/Developer/Android/projects/fpaandroidclient/trunk/AndroidManifest.xml" "c:/Users/Administrator/Desktop/0621/PC‘¶Ë‘²â‘ÊÔ‘¹æ‘»®.txt" "d:/Developer/Android/android-sdk/tools/ant/build.xml" "d:/Developer/Android/projects/emacstest/src/cn/xtedu/emacstest/main.java" "d:/Developer/Android/projects/emacstest/build.xml" "~/" "d:/Developer/fpapcclient/code/FPA Solution.sln" "d:/Developer/fpapcclient/code/fpa_service/CtrlCenter/AppTimeMgr.cpp" "d:/Developer/fpapcclient/code/fpa_common/BusinessCom/DataLocProxy/DataLocProxy.cpp"))
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 206
+  "d:/Developer/Android/projects/fpaandroidclient/trunk/res/layout/main.xml"
+  "main.xml"
+  'nxml-mode
+  '(linum-mode emaci-mode autopair-mode ede-minor-mode android-mode ecb-minor-mode)
+  210
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  "d:/Developer/Android/projects/fpaandroidclient/trunk/AndroidManifest.xml"
+  "AndroidManifest.xml"
+  'nxml-mode
+  '(linum-mode emaci-mode autopair-mode ede-minor-mode android-mode ecb-minor-mode)
+  1233
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-dos)))
+
+(desktop-create-buffer 206
+  "d:/Developer/Android/projects/fpaandroidclient/trunk/local.properties"
+  "local.properties"
+  'conf-javaprop-mode
+  '(linum-mode emaci-mode autopair-mode ede-minor-mode android-mode ecb-minor-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "d:/Developer/Android/projects/fpaandroidclient/trunk/project.properties"
+  "project.properties"
+  'conf-javaprop-mode
+  '(linum-mode emaci-mode autopair-mode ede-minor-mode android-mode ecb-minor-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "d:/Developer/Android/projects/fpaandroidclient/trunk/proguard-project.txt"
+  "proguard-project.txt"
+  'text-mode
+  '(linum-mode emaci-mode autopair-mode ede-minor-mode android-mode ecb-minor-mode)
+  63
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-dos)))
+
+(desktop-create-buffer 206
+  "d:/Developer/Android/projects/emacstest/src/cn/xtedu/emacstest/main.java"
+  "main.java"
+  'java-mode
+  '(abbrev-mode linum-mode auto-complete-mode emaci-mode autopair-mode senator-minor-mode semantic-idle-scheduler-mode semantic-idle-summary-mode semantic-mru-bookmark-mode srecode-minor-mode android-mode ecb-minor-mode)
+  340
+  '(340 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-dos)))
+
+(desktop-create-buffer 206
+  "d:/Developer/Android/android-sdk/tools/ant/build.xml"
+  "build.xml<2>"
+  'nxml-mode
+  '(linum-mode emaci-mode autopair-mode ecb-minor-mode)
+  63049
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  "d:/Developer/Android/projects/emacstest/build.xml"
+  "build.xml"
+  'nxml-mode
+  '(linum-mode emaci-mode autopair-mode ede-minor-mode android-mode ecb-minor-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-dos)))
+

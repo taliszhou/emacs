@@ -1,0 +1,128 @@
+erl
+$PATHA
+$PATH
+echo $PATH
+cd d:/Developer/Android/projects/
+ls
+cd suishouji/
+ls
+rm -rf TAGS 
+ls
+find . -name "*.java"
+find . -name 
+man find
+find
+find *.java
+find /?
+find --help
+find . -name "*.java" -print
+find . -name "java" -print
+find . -name "*.java" -print | etags -
+etags
+etags
+etags
+ls
+exit
+cd /
+cd Developer/Android/projects/suishouji/
+ls
+ll
+ls -al
+gnufind . -name "*.java" -print | etags -
+etags
+etags
+gnufind . -name "*.java" -print | -etags
+exit
+cd ..
+ls
+cd ..
+ls
+cd ..
+ls
+cd ..
+c d..
+cd ..
+cd ..
+ls
+etags
+exit
+ant
+ant
+path
+help
+exit
+c:\ant\bin\ant -e compile
+java
+ant
+echo $path
+erl
+java
+ant
+cd ..
+cd ..
+cd ..
+ls
+cd ..
+ls
+cd include/
+ls
+cd ..
+ls
+cd code/
+dir
+ls
+rm TAGS 
+ls
+cd ..
+ls
+tagvc
+ls d:/BIN/TOOLS/emacs/bin/*.bat
+tag-vc
+ls
+ls -al
+exit
+cd ..
+cd ..
+cd ..
+cd ..
+dir
+ls
+tags-java
+tag-java
+ls
+ls -al
+cd ..
+cd ..
+ls
+cd ..
+ls
+cd ..
+ls
+ls
+cd ..
+ls
+cd trunk/
+ls
+ls -al
+ls
+cd src/
+ls
+cd com/
+ls
+cd flc/
+ls
+ls -al
+cd dao/
+ls
+rm TAGS 
+ls
+ls -al
+cd ..
+cd ..
+c d..
+cd ..
+cd ..
+ls
+tag-java
+ls
+ls -al
